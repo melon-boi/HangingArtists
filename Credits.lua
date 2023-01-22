@@ -1,8 +1,4 @@
 local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
-
-
-local tab2 = win:Tab("Credits")
-
 --tab:Section(title <string>)
 local sec2 = tab2:Section("Credits")
 sec2:Label("Owners - melon boi#2511, MrAWAY#0069")
