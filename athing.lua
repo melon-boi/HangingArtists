@@ -19,6 +19,13 @@ local slider = sec:Slider("Delay", 0,2,0,0.1,"Delay", function(t)
   print(t)
 end)
 
+
+local sec2 = tab2:Section("Credits")
+sec2:Label("Owners - melon boi#2511, MrAWAY#0069")
+sec2:Label("Developers - melonboi#2511")
+sec2:Label("Discord Server - https://discord.gg/rtcz9nUP57")
+--sec:Button(title <string>, callback <function>)    
+
 local dropdown = sec:Dropdown("Personal art", {
     "melon boi",
     "dominus 2",
