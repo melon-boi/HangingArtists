@@ -1,5 +1,4 @@
-local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
---tab:Section(title <string>)
+
 sec2:Label("Owners - melon boi#2511, MrAWAY#0069")
 sec2:Label("Developers - melonboi#2511")
 sec2:Label("Discord Server - https://discord.gg/rtcz9nUP57")
