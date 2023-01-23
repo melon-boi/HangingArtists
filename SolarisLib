@@ -932,7 +932,6 @@ function SolarisLib:New(Config)
                             Dropdown.Value = option
                             DropMain.Btn.Title.Text = text .. " - " .. option
                             Ripple(Option)
-                            return callback(Dropdown.Value)
                         end)
 
                         spawn(function()
