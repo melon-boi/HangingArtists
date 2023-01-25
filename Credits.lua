@@ -1,7 +1,6 @@
-local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
+local tab_cr = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
+tab_cr:Label("Discord server - discord.gg/7zhgpZWeWR")
+tab_cr:Label("Owners - melon boi#2511 , MrAWAY#0069")
+tab_cr:Label("Developers - melon boi#2511 , upssXaxa#6129")
+tab_cr:Label("Helpers - gato#4192 , juani#1811")
 
-local tab2 = win:Tab("Credits")
-local sec2 = tab2:Section("Credits")
-sec2:Label("Owners - melon boi#2511, MrAWAY#0069")
-sec2:Label("Developers - melonboi#2511")
-sec2:Label("Discord Server - https://discord.gg/rtcz9nUP57")
