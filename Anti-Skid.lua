@@ -1,6 +1,2 @@
-local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
-
-local win = SolarisLib:New({
-  Name = "Hanging Artists v1.1",
-  FolderToSave = "SolarisLibStuff"
-})
+local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")() 
+local win = lib:Window("Hanging Artist", "Best script for SA!", Color3.fromRGB(226, 42, 232), _G.closeBind) 
