@@ -1,3 +1,4 @@
+local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")() 
 local tab_cr = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab_cr:Label("Discord server - discord.gg/7zhgpZWeWR")
 tab_cr:Label("Owners - melon boi#2511 , MrAWAY#0069")
